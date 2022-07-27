@@ -1,0 +1,16 @@
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\bin\Debug\NET INIS4_PR2.2 z2.exe.config
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\bin\Debug\NET INIS4_PR2.2 z2.exe
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\bin\Debug\NET INIS4_PR2.2 z2.pdb
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2.csproj.AssemblyReference.cache
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\MainWindow.g.cs
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\App.g.cs
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2_MarkupCompile.cache
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2_MarkupCompile.lref
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\App.baml
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\MainWindow.baml
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2.g.resources
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET_INIS4_PR2._2_z2.Properties.Resources.resources
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2.csproj.GenerateResource.cache
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2.csproj.CoreCompileInputs.cache
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2.exe
+C:\Users\agent\Source\Repos\NET-INIS4_PR2.2-z2\obj\Debug\NET INIS4_PR2.2 z2.pdb
