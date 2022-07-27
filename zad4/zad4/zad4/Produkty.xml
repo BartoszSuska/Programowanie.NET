@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GrupyProduktów>
+  <Grupa>
+    <Nazwa>Włochy</Nazwa>
+    <Elementy>
+      <Element
+      id="1"
+      >
+        <nazwa>AC Milan</nazwa>
+        <miasto>Mediolan</miasto>
+        <budzet>547 mln</budzet>
+        <prezes>Paolo Scaroni</prezes>
+        <kolory>czerwono-czarne</kolory>
+        <wygrane>19</wygrane>
+      </Element>
+      <Element
+      id="2"
+      >
+        <nazwa>Juventus</nazwa>
+        <miasto>Turyn</miasto>
+        <budzet>538 mln</budzet>
+        <prezes>Andrea Agnelli</prezes>
+        <kolory>biało-czarne</kolory>
+        <wygrane>36</wygrane>
+      </Element>
+      <Element
+      id="3"
+      >
+        <nazwa>AS Roma</nazwa>
+        <miasto>Rzym</miasto>
+        <budzet>372 mln</budzet>
+        <prezes>Dan Friedkin</prezes>
+        <kolory>żółto-czerwone</kolory>
+        <wygrane>3</wygrane>
+      </Element>
+    </Elementy>
+  </Grupa>
+  <Grupa>
+    <Nazwa>Anglia</Nazwa>
+    <Elementy>
+      <Element
+      id="11"
+      >
+        <nazwa>Manchester United</nazwa>
+        <miasto>Manchester</miasto>
+        <budzet>759 mln</budzet>
+        <prezes>Joel i Avram Glazer</prezes>
+        <kolory>czerwono-biało-czarne</kolory>
+        <wygrane>20</wygrane>
+      </Element>
+      <Element
+      id="12"
+      >
+        <nazwa>Arsenal</nazwa>
+        <miasto>Londyn</miasto>
+        <budzet>666 mln</budzet>
+        <prezes>Vinai Venkatesham</prezes>
+        <kolory>czerwono-białe</kolory>
+        <wygrane>13</wygrane>
+      </Element>
+    </Elementy>
+  </Grupa>
+</GrupyProduktów>
