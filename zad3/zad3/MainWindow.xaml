@@ -1,0 +1,40 @@
+﻿<Window x:Class="zad3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad3"
+        mc:Ignorable="d"
+        
+        Title="MainWindow"
+        Height="700"
+        Width="1024"
+        FontSize="24"
+        >
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <ListBox
+            Name="ListaDoWybrania"
+            ItemsSource="{Binding Lista}"
+            >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding FormatListy}"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button
+            Grid.Row="1"
+            Click="Szczegóły"
+            >Szczegóły</Button>
+        <Button
+            Grid.Row="2"
+            Click="DodajNowy"
+            >Dodaj Nowy</Button>
+    </Grid>
+</Window>
